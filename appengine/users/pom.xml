@@ -48,7 +48,7 @@ Copyright 2015 Google Inc.
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>25.1-android</version>
+      <version>32.0.0-android</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
@@ -60,7 +60,7 @@ Copyright 2015 Google Inc.
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20180813</version>
+      <version>20231013</version>
     </dependency>
     <!-- Test Dependencies -->
     <dependency>
