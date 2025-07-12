@@ -37,7 +37,7 @@
      project:region:instance for Cloud SQL 2nd Generation or
      project:instance        for Cloud SQL 1st Generation
 -->
-    <INSTANCE_CONNECTION_NAME></INSTANCE_CONNECTION_NAME>
+    <INSTANCE_CONNECTION_NAME/>
     <user>root</user>
     <password>myPassword</password>
     <database>sqldemo</database>
@@ -67,7 +67,7 @@
     <dependency>
       <groupId>com.google.api-client</groupId>
       <artifactId>google-api-client-appengine</artifactId>
-      <version>1.30.2</version>
+      <version>1.32.1</version>
     </dependency>
 
 
