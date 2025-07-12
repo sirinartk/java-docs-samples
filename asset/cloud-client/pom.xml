@@ -67,7 +67,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-resourcemanager</artifactId>
-      <version>0.106.0-alpha</version>
+      <version>1.0.0</version>
     </dependency>
   </dependencies>
 </project>
